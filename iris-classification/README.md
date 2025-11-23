@@ -1,31 +1,20 @@
-# Iris Classification Project 🌸
+# Machine Learning Portfolio – Pakalapati Deepak
 
-This project predicts the species of Iris flower using Machine Learning.
+Welcome to my Machine Learning portfolio!  
+This repository contains real ML projects built using Python, scikit-learn, pandas, NumPy, and Google Colab.
 
-## 📌 Techniques Used
-- Python
-- pandas
-- numpy
-- scikit-learn
-- Train-test split
-- Logistic Regression / SVM
+## 📁 Current Projects
+- Iris Classification 🌸
+- Titanic Survival Prediction 🚢
+- Python Basics 🐍
 
-## 📊 Dataset
-The Iris dataset has 150 samples and 4 features:
-- Sepal Length
-- Sepal Width
-- Petal Length
-- Petal Width
+## 🎯 Goals (Next 60 Days)
+- Complete 10+ Forage Internships
+- Complete IIT Spoken Tutorial ML
+- Complete AICTE Internship
+- Complete 2 Real ML Internships
+- Build 8–10 Machine Learning Projects
 
-## 🧪 Model Training
-1. Load dataset
-2. Preprocess data
-3. Train ML model
-4. Test on unseen data
-5. Generate accuracy score
-
-## 📁 Files
-- `iris_model.ipynb` – Jupyter Notebook (to be uploaded soon)
-
-## ✔ Status
-➡️ **Notebook will be added in the next step**
+## 🔗 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/public-profile/settings  
+- **GitHub:** https://github.com/Deepakpakalapati30
